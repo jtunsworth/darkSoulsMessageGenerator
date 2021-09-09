@@ -48,3 +48,13 @@ Below is a list of the message contents. Longer passages broken up with |.
 38. Take nourishment from these sovereignless souls.
 39. Fire came to be, and with it, disparity. Heat and cold, life and death, light and dark. | Dark was seen as a curse. Shadow is not cast, but born of fire. And, the brighter the flame, the deeper the shadow. | Inherit fire and harness the dark. Such is the calling of a true leader. 
 40. Let strength me granted, so the world might be mended.
+41. Acts of goodness are not always wise, and acts of evil are not always foolish, but regardless, we shall always strive to be good.
+42. Here we stand, feet planted in the earth, but might the cosmos be very near us, only just above our heads?
+43. We are born of the blood, made men by the blood. Our eyes are yet to open...Fear the old blood.
+44. I should think you still have dreams, well next time you dream...give some thought, to the hunt.
+45. The manifestation of madness comes from a mind teetering on the very brink, but has a sane mind produced anything of true significance?
+46. When the frail of heart join the fray, the hunter becomes the hunted.
+47. Plant eyes on our brains, to clense our beastly idiocy! | Blasphemous murderers, blood-crazed fiends, atonement for the wrteches. | By the wrath of the mother, mercy for the poor child...Mercy, oh please.
+48. The red moon hangs low and beasts rule the streets. Are we left with no other choice, than to burn it all to cinders.
+49. Curse the fiends, their children too, and their children forever true. A call to the bloodless wherever they be.
+50. Do you know why we are drawn to the nightmare? Because it sprouted from our very misdeeds | Things that some would prefer kept secret. A pitiful tale of petty arrogance. High time someone exposed the whole charade.
