@@ -4,7 +4,6 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
-* [Setup](#setup)
 * [Usage](#usage)
 
 
@@ -12,7 +11,6 @@
 ## General Information
 - For the Codecademy project 'Mixed Messages' I have programmed a random message generator based upon the Soulsborne games developed by *FromSoftware*.
 - The aim is to create a function that output a random message. 
-- 
 
 ## Technologies Used
 - JavaScript
@@ -24,11 +22,6 @@
 ## Features
 - To use the function simply input the code into your script and console.log the function 'yourDSMEssage()'. 
 - You can also add the function to a HTML document. Perhaps to activate in a text box onclick?
-
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
 
 
 ## Usage
