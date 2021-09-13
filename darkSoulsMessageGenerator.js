@@ -1,7 +1,5 @@
-//function message
+
 let dsMessage = {
-
-
 
     userName: ['Chosen One.', 'Chosen Undead.', 'Unkindled One.', 'Cursed Undead.', 'Hollowed One.', 'Dear Hunter.', 'Afflicted One.', 'Feeble Paleblood.', 'Ashen One.', 'Good Messenger.', 'Unbreakable Pygmy', 'Brave Undead'],
     
@@ -46,8 +44,5 @@ let dsMessage = {
         );
     };
     
-    
     console.log(yourDSMessage());
    
-    
-    
