@@ -4,7 +4,6 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
-* [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
 
@@ -25,11 +24,6 @@
 ## Features
 - To use the function simply input the code into your script and console.log the function 'yourDSMEssage()'. 
 - You can also add the function to a HTML document. Perhaps to activate in a text box onclick?
-
-
-## Screenshots
-(.\darkSoulsMessageGenerator\screenshot.png)
-
 
 ## Setup
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
