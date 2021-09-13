@@ -46,3 +46,6 @@ function yourDSMessage() {
     );
 };
 
+
+console.log(yourDSMessage());
+
